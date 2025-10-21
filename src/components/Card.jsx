@@ -4,8 +4,8 @@ import rightArrow from '/images/right.png'
 
 const Card = ({color}) => {
     return (
-        <div style={{backgroundColor:color}} className='p-[2rem]  flex items-start justify-center w-full lg:w-[50%] shadow-lg'>
-            <div className='w-[20%] md:w-[10%] lg:w-[10%] mt-[1.5rem] lg:mt-[1rem]'>
+        <div style={{backgroundColor:color}} className='p-[0.6rem] md:p-[2rem] flex-col md:flex-row flex items-start justify-center  w-full lg:w-[50%] shadow-lg'>
+            <div className='w-[20%] ml-[1rem] md:ml-0 md:w-[10%] lg:w-[10%] mt-[1.5rem] lg:mt-[1rem]'>
                 <img
                     src={logoImg}
                     alt="Movie" />

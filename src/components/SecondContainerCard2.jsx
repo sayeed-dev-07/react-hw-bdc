@@ -34,9 +34,6 @@ const SecondContainerCard2 = () => {
                         </div>
                     </div>
                 </div>
-
-
-
             </div>
         </div>
     );
