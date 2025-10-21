@@ -5,7 +5,7 @@ import sponsor from '/images/sponsor.png'
 const Hero = () => {
     return (
 
-        <div className="min-h-screen flex bg-[#FFFCF7]">
+        <div className="min-h-screen text-black flex bg-[#FFFCF7]">
             <div className="flex items-center justify-center flex-col lg:flex-row-reverse gap-y-[2rem] gap-x-[5rem]">
                 <img 
                     src={heroImg}
