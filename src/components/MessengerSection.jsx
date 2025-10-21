@@ -10,7 +10,7 @@ const MessengerSection = () => {
             <div className='lg:w-[50%] w-full'>
                 <p className='md:text-5xl mt-[3rem] py-[2rem] text-3xl font-semibold inline'>Built in one app to make instant reply with in lowest minutes <img className='inline' src={icon} alt="" /> </p>
                 <p className='lg:py-[2rem] py-[1rem] text-base md:text-xl'>Get your tests delivered at let home collect sample from the victory of the managments that supplies best design system guidelines ever.</p>
-                <div className='grid md:grid-cols-2 gap-y-[1rem] w-[45%] lg:w-[70%] font-medium'>
+                <div className='grid md:grid-cols-2 gap-y-[1rem] w-[100%] lg:w-[70%] font-medium'>
                     <div className='flex items-center justify-start gap-2 '>
                         <img src={tikIcon} alt="" />
                         <p>Medical and vision</p>
