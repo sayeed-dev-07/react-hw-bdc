@@ -14,7 +14,7 @@ const SecondContainerCard2 = () => {
                     that will make you wow <img className='inline' src={wowIcon} alt="" /> </p>
                 <p className='lg:py-[2rem] py-[1rem] text-base md:text-xl'>Build an incredible workplace and grow your business with Gusto’s all-in-one platform with amazing contents.</p>
 
-                <div className="card bg-base-100  shadow-md my-[1rem]">
+                <div className="card bg-white text-black  shadow-md my-[1rem]">
                     <div className="card-body">
                         <h2 className="card-title text-2xl">Organize your project content</h2>
                         <p className='text-base md:text-xl'>Get your website ads tests delivered at let collect sample from the victory of the managments that supplies best design system which guidelines ever with multiple features.</p>
