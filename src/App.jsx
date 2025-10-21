@@ -15,26 +15,26 @@ function App() {
 
   return (
     <>
-      <div className='hero-main w-full  bg-[#fffcf7] lg:px-[5%] sm:px-[2%] px-[0.7rem] xl:px-[10%]'>
+      <div className='hero-main w-full text-black bg-[#fffcf7] lg:px-[5%] sm:px-[2%] px-[0.7rem] xl:px-[10%]'>
         <Navbar />
         <Hero />
       </div>
-      <div className='w-full  bg-[#fff] lg:px-[5%] sm:px-[2%] px-[0.7rem] xl:px-[10%]'>
+      <div className='w-full text-black bg-[#fff] lg:px-[5%] sm:px-[2%] px-[0.7rem] xl:px-[10%]'>
         <SecondContainer />
       </div>
-      <div className='w-full  bg-[#353448] lg:pl-[10%] pr-0 sm:pl-[4%] pl-[0.7rem] md:pl-[10%]'>
+      <div className='w-full text-black bg-[#353448] lg:pl-[10%] pr-0 sm:pl-[4%] pl-[0.7rem] md:pl-[10%]'>
         <Dashboard />
       </div>
-      <div className='w-full  bg-[#F9FAFC] lg:px-[5%] sm:px-[2%] px-[0.7rem] xl:px-[10%]'>
+      <div className='w-full text-black bg-[#F9FAFC] lg:px-[5%] sm:px-[2%] px-[0.7rem] xl:px-[10%]'>
         <PlacCardContainer />
       </div>
-      <div className='w-full bg-[#FFFCF7]'>
+      <div className='w-full text-black bg-[#FFFCF7]'>
         <FeedBackContainer />
       </div>
-      <div className='w-full  bg-[#353448] lg:px-[5%] sm:px-[2%] px-[0.7rem] xl:px-[10%]'>
+      <div className='w-full text-black  bg-[#353448] lg:px-[5%] sm:px-[2%] px-[0.7rem] xl:px-[10%]'>
         <Contact />
       </div>
-      <div className='w-full  bg-[#09090b] lg:px-[5%] sm:px-[2%] px-[0.7rem] xl:px-[10%]'>
+      <div className='w-full text-black  bg-[#09090b] lg:px-[5%] sm:px-[2%] px-[0.7rem] xl:px-[10%]'>
         <Footer />
       </div>
     </>
